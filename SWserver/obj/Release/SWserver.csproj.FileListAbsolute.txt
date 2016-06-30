@@ -1,0 +1,16 @@
+F:\VisualStudioProjects\SWserver\SWserver\bin\Release\SWserver.exe.config
+F:\VisualStudioProjects\SWserver\SWserver\bin\Release\SWserver.exe
+F:\VisualStudioProjects\SWserver\SWserver\bin\Release\SWserver.pdb
+F:\VisualStudioProjects\SWserver\SWserver\bin\Release\InTheHand.Net.Personal.dll
+F:\VisualStudioProjects\SWserver\SWserver\bin\Release\InTheHand.Net.Personal.xml
+F:\VisualStudioProjects\SWserver\SWserver\obj\Release\MainWindow.g.cs
+F:\VisualStudioProjects\SWserver\SWserver\obj\Release\App.g.cs
+F:\VisualStudioProjects\SWserver\SWserver\obj\Release\SWserver_MarkupCompile.cache
+F:\VisualStudioProjects\SWserver\SWserver\obj\Release\SWserver_MarkupCompile.lref
+F:\VisualStudioProjects\SWserver\SWserver\obj\Release\MainWindow.baml
+F:\VisualStudioProjects\SWserver\SWserver\obj\Release\SWserver.g.resources
+F:\VisualStudioProjects\SWserver\SWserver\obj\Release\SWserver.Properties.Resources.resources
+F:\VisualStudioProjects\SWserver\SWserver\obj\Release\SWserver.csproj.GenerateResource.Cache
+F:\VisualStudioProjects\SWserver\SWserver\obj\Release\SWserver.exe
+F:\VisualStudioProjects\SWserver\SWserver\obj\Release\SWserver.pdb
+F:\VisualStudioProjects\SWserver\SWserver\bin\Release\Gma.System.MouseKeyHook.dll

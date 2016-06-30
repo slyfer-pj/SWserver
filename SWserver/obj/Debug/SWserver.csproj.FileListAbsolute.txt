@@ -1,0 +1,17 @@
+F:\VisualStudioProjects\SWserver\SWserver\bin\Debug\SWserver.exe.config
+F:\VisualStudioProjects\SWserver\SWserver\obj\Debug\MainWindow.g.cs
+F:\VisualStudioProjects\SWserver\SWserver\obj\Debug\App.g.cs
+F:\VisualStudioProjects\SWserver\SWserver\obj\Debug\SWserver_MarkupCompile.cache
+F:\VisualStudioProjects\SWserver\SWserver\obj\Debug\SWserver_MarkupCompile.lref
+F:\VisualStudioProjects\SWserver\SWserver\bin\Debug\SWserver.exe
+F:\VisualStudioProjects\SWserver\SWserver\bin\Debug\SWserver.pdb
+F:\VisualStudioProjects\SWserver\SWserver\bin\Debug\InTheHand.Net.Personal.dll
+F:\VisualStudioProjects\SWserver\SWserver\bin\Debug\InTheHand.Net.Personal.xml
+F:\VisualStudioProjects\SWserver\SWserver\obj\Debug\MainWindow.baml
+F:\VisualStudioProjects\SWserver\SWserver\obj\Debug\SWserver.g.resources
+F:\VisualStudioProjects\SWserver\SWserver\obj\Debug\SWserver.Properties.Resources.resources
+F:\VisualStudioProjects\SWserver\SWserver\obj\Debug\SWserver.csproj.GenerateResource.Cache
+F:\VisualStudioProjects\SWserver\SWserver\obj\Debug\SWserver.exe
+F:\VisualStudioProjects\SWserver\SWserver\obj\Debug\SWserver.pdb
+F:\VisualStudioProjects\SWserver\SWserver\bin\Debug\Gma.System.MouseKeyHook.dll
+F:\VisualStudioProjects\SWserver\SWserver\obj\Debug\SWserver.csprojResolveAssemblyReference.cache
